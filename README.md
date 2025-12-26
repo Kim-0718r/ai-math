@@ -16,17 +16,7 @@
 ---
 
 ## 📚 Covered Topics
-- **Linear Algebra**  
-  벡터, 행렬, 내적, 고유값 등 모델 연산의 핵심
 
-- **Probability & Statistics**  
-  확률변수, 분포, 기댓값, 베이즈 정리 등 불확실성 모델링
-
-- **Calculus**  
-  미분, 편미분, 체인룰, 경사 계산
-
-- **Optimization**  
-  Gradient Descent, 비용 함수, 수렴 개념
 
 ---
 
@@ -39,9 +29,4 @@
 ---
 
 ## 📂 Repository Structure
-```text
-ai-math/
-├─ linear_algebra/
-├─ probability/
-├─ calculus/
-├─ optimization/
+
